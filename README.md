@@ -1,0 +1,1 @@
+A mini project from the Modern JavaScript from the beginning course by Brad Traversy. Clicking on the menu link will change the states to a Home, About and Contact page without creating any files such as an about.html, its all strictly in the JavaScript file. Try it on:
